@@ -2,11 +2,6 @@
 
 ### Wanderlust
 
-#### This is a private repo
-
-#### Created for COMP424 Loyola University Chicago for Fall 2016
-
-#### Taught by Professor Nicholas Hayward
 
 #### Team STA
 
@@ -15,8 +10,6 @@
 - Asmina Akram
 
 ### What is this repository for?
-
-#### Web Page Project for COMP424
 
 This project is for the creation of a web application that will help a user
 plan trips to new and exiting places. It currently incorporates the following
